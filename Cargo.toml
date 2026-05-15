@@ -1,6 +1,10 @@
 [package]
 name = "tp1_log_analyzer"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+
+[[bin]]
+name = "tp1_log_analyzer"
+path = "src/main.rs"
