@@ -1,0 +1,10 @@
+Jan 10 08:15:21 srvo1 sshd[1001]: Failed password for invalid user admin from 203.0.113.10 port 34567 ssh2
+Jan 10 08:16:03 srvo1 sshd[1002]: Failed password for root from 198.51.100.23 port 55432 ssh2
+Jan 10 08:16:44 srvo1 sshd[1003]: Accepted password for student from 192.0.2.15 port 44822 ssh2
+Jan 10 08:17:01 srvo1 sshd[1004]: Failed password for invalid user test from 203.0.113.10 port 34570 ssh2
+Jan 10 08:18:11 srvo1 sshd[1005]: Failed password for admin from 203.0.113.10 port 34571 ssh2
+Jan 10 08:19:41 srvo1 sshd[1006]: Invalid user oracle from 192.0.2.55 port 51200
+Jan 10 08:20:12 srvo1 sshd[1007]: Failed password for root from 198.51.100.23 port 55433 ssh2
+Jan 10 08:21:00 srvo1 sshd[1008]: Failed password for invalid user guest from 203.0.113.77 port 60000 ssh2
+MALFORMED LINE WITHOUT EXPECTED SSH FIELDS
+Jan 10 08:22:11 srvo1 sshd[1009]: Failed password for backup from 192.0.2.55 port 51201 ssh2
